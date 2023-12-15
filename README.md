@@ -1,2 +1,2 @@
 # TermProjectNLP
-Natural Language Processing/Sentinel Analysis
+Natural Language Processing/Sentiment Analysis
